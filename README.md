@@ -1,24 +1,5 @@
-# src
+## JANコード（JAN−13）作成ツール
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+JAN−13を作成し、クリップボードにコピーできるツールです。
+従来のサイトでは画像がSVGのため、Excel等のソフトへの直接貼り付けが不可でしたが
+本ソフトではPngに変換処理しており、この点をクリアしています。
